@@ -7,9 +7,3 @@ This is description
 > _Italic_
 > <mark style="background-color: #FFFF00">Highlighted text</mark>
 > *Everything is going well*
-> ````
-> {
-> "name": "Shiva" ,
-> "age": 10,
-> }
-> ````

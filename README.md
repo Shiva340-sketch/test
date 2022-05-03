@@ -7,3 +7,4 @@ This is description
 > _Italic_
 > <mark style="background-color: #FFFF00">Highlighted text</mark>
 > *Everything is going well*
+That is so funny ! :joy:

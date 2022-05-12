@@ -11,5 +11,5 @@ This is description
 That is so funny ! :joy:
 -----
 Pronouns she/her :girl:
-![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+![alt text for screen readers](https://www.w3.org/Style/CSS/).
 

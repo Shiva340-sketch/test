@@ -10,5 +10,5 @@ This is description
 > *Everything is going well*
 That is so funny ! :joy:
 -----
-Pronouns she/her :girl
+Pronouns she/her : girl :
 

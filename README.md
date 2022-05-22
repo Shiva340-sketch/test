@@ -10,6 +10,5 @@ This is description
 > *Everything is going well*
 That is so funny ! :joy:
 -----
-Pronouns she/her :girl:
-![alt text for screen readers](https://www.w3.org/Style/CSS/).
+Pronouns she/her :girl
 

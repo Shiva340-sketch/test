@@ -1,7 +1,7 @@
 #  test
 This is description
 > This is a quote
-> ## Hello my name is Shiva ![This is an image]{width : 10px;}(https://raw.githubusercontent.com/Brillianttyagi/Brillianttyagi/master/hand.gif)
+> ## Hello my name is Shiva 
 
 > ## Python is my favourite programming language 
 > <mark style="background-color: #FFFF00">Highlighted text</mark>
